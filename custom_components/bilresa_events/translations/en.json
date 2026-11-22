@@ -1,0 +1,8 @@
+{
+  "title": "BILRESA Early Release Events",
+  "config": {
+    "step": {"user": {"title": "Select lighting buttons", "description": "Expose raw ShortRelease for the selected native Matter event entities. No lights are controlled by this integration.", "data": {"sources": "Native Matter lighting button entities"}}},
+    "error": {"invalid_sources": "Select distinct native Matter Generic Switch event entities."},
+    "abort": {"already_configured": "Already configured."}
+  }
+}

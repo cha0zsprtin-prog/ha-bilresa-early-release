@@ -1,0 +1,14 @@
+{
+  "domain": "bilresa_events",
+  "name": "BILRESA Early Release Events",
+  "version": "0.1.0",
+  "config_flow": true,
+  "dependencies": ["matter"],
+  "requirements": [],
+  "codeowners": ["@cha0zsprtin-prog"],
+  "documentation": "https://github.com/cha0zsprtin-prog/ha-bilresa-early-release",
+  "issue_tracker": "https://github.com/cha0zsprtin-prog/ha-bilresa-early-release/issues",
+  "integration_type": "hub",
+  "iot_class": "local_push",
+  "single_config_entry": true
+}
